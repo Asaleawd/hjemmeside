@@ -1,0 +1,45 @@
+body{
+  background-color: #313436;
+  font-family: serif;
+}
+
+h2 {
+  text-align: center;
+  color: #F4F8FA
+}
+p{
+  font-weight: normal;
+  text-align: center;
+  color: #ADAEAF
+}
+
+h3{
+  font-style: italic;
+  text-align: center;
+  color: #F4F8FA
+}
+
+.dato{
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.overskrift{
+  margin-top: 50px
+
+}
+
+.bilde{
+
+  width: 500px;
+  border-color: white;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+
+
+}
